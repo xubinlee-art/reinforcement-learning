@@ -17,6 +17,7 @@ All code is written in Python 3 and uses RL environments from [OpenAI Gym](https
 - [Dynamic Programming: Model-Based RL, Policy Iteration and Value Iteration](DP/)
 - [Monte Carlo Model-Free Prediction & Control](MC/)
 - [Temporal Difference Model-Free Prediction & Control](TD/)
+- 索引文档：按 Sutton《强化学习导论》章节 → 代码映射（中文）: [docs/sutton-mapping.md](docs/sutton-mapping.md)
 - [Function Approximation](FA/)
 - [Deep Q Learning](DQN/) (WIP)
 - [Policy Gradient Methods](PolicyGradient/) (WIP)
